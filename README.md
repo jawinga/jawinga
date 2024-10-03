@@ -35,12 +35,13 @@
 ## 🛠️ IDEs y Entornos de Desarrollo
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
-  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&scale=1.5" alt="IntelliJ IDEA" height="40">
+  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&scale=1.5" alt="NetBeans" height="40">
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&scale=1.5" alt="VS Code" height="40">
+  <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&scale=1.5" alt="phpMyAdmin" height="40">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&scale=1.5" alt="Eclipse" height="40">
 </p>
+
 
 ## 🌟 Aspectos Destacados
 
