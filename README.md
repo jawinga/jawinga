@@ -50,7 +50,7 @@
   <img src="certificados/curso_udemy.jpeg" alt="Certificado Udemy" width="70%">
 
 - **UX/UI Design Bootcamp**
-  _Instructor: Lilian Bustos Linares
+  _Instructor: Lilian Bustos Linares_  
   _Emitido por: Memorisely_  
   <img src="certificados/certificado.png" alt="Certificado Memorisely" width="70%">
 
