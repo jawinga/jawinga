@@ -1,14 +1,18 @@
-# 👋 Hola, soy Cristian Harders
+<img src="https://raw.githubusercontent.com/tuUsuario/tuRepositorio/main/images/banner.png" alt="Banner" width="100%">
+
+# <img src="https://raw.githubusercontent.com/tuUsuario/tuRepositorio/main/images/avatar.png" alt="Avatar" width="50" height="50" style="border-radius:50%;"> Hola, soy Cristian Harders
 
 ## 💻 Desarrollador Web | 🎨 Entusiasta UX/UI | 🌍 Multilingüe
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
 
-🚀 Futuro desarrollador web apasionado por crear soluciones digitales eficientes  para el usuario. Ubicado en Málaga, España.
+🚀 Futuro desarrollador web apasionado por crear soluciones digitales eficientes y amigables para el usuario. Ubicado en Málaga, España.
 
 ## 🎓 Formación
 
@@ -18,10 +22,9 @@
 
 ## 🛠️ Habilidades
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Java, MySQL
-- **Diseño**: Figma, principios de UX/UI
-- **Herramientas**: Git, GitHub
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tuUsuario/tuRepositorio/main/images/skills.png" alt="Habilidades" width="80%">
+</div>
 
 ## 🌟 Aspectos Destacados
 
@@ -31,8 +34,18 @@
 
 ## 📫 ¡Conectemos!
 
-- [LinkedIn](www.linkedin.com/in/cristianharders)
-- 📧 cristianharders@gmail.com
+<div align="center">
+  <a href="www.linkedin.com/in/cristianharders">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:cristianharders@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
+
+💡 Entusiasta por aprender y contribuir en proyectos web innovadores. ¡Creemos algo increíble juntos!
 
 ---
 
