@@ -9,7 +9,13 @@
 ## 🚀 Sobre mí
 
 <p style="font-family: 'Inter', sans-serif;">
-🎓 ##Estudiante de Desarrollo## de Aplicaciones Web en la Universidad Europea de Madrid
+📍 ##Viviendo en Málaga, España - ¡disfrutando del sol y programando cerca del mar!  
+🎓 ##Estudiante de Desarrollo de Aplicaciones Web en la Universidad Europea de Madrid
+💻 ##Entusiasta de Frontend y Backend
+🎨 ##Amante del UX/UI - diseño para todos, creando experiencias accesibles y efectivas
+🚀 ##Siempre curioso y aprendiendo las últimas tendencias tecnológicas
+🗣️ ##Bilingüe: Inglés nativo y español nativo
+
 </p>
 
 ## 👾 Habilidades y Herramientas
@@ -59,7 +65,6 @@
 ## 🌟 Aspectos Destacados
 
 - 🌐 **Experiencia en proyectos reales** durante el bootcamp de UX/UI
-- 🗣️ **Multilingüe**: Inglés nativo, Español nativo
 - 🌍 **Experiencia internacional**: Estudios y trabajo en Reino Unido
 
 
