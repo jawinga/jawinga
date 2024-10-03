@@ -1,12 +1,10 @@
-# Cristian Harders
+<h1 align="center">
+  Cristian Harders
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E73F7&center=true&vCenter=true&width=435&lines=Desarrollador+Web;Entusiasta+UX%2FUI;Multilingüe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=2E73F7&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+%7C+Entusiasta+UX%2FUI+%7C+Multilingüe" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuUsuarioGitHub&style=flat-square&color=blue" alt="Vistas del perfil">
-</p>
 
 ## 🚀 Sobre mí
 
@@ -65,6 +63,11 @@ Apasionado por crear soluciones digitales eficientes y amigables. Ubicado en Má
   </a>
 </p>
 
+---
+
+<div align="center">
+  💡 Entusiasta por aprender y contribuir en proyectos web innovadores. ¡Creemos algo increíble juntos!
+</div>
 ---
 
 <div align="center">
