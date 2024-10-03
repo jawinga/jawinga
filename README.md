@@ -9,12 +9,12 @@
 ## 🚀 Sobre mí
 
 <p style="font-family: 'Inter', sans-serif;">
-📍 ##Viviendo en Málaga, España - ¡disfrutando del sol y programando cerca del mar!  
-🎓 ##Estudiante de Desarrollo de Aplicaciones Web en la Universidad Europea de Madrid
-💻 ##Entusiasta de Frontend y Backend
-🎨 ##Amante del UX/UI - diseño para todos, creando experiencias accesibles y efectivas
-🚀 ##Siempre curioso y aprendiendo las últimas tendencias tecnológicas
-🗣️ ##Bilingüe: Inglés nativo y español nativo
+📍 ## Viviendo en Málaga, España - ¡disfrutando del sol y programando cerca del mar!  
+🎓 ## Estudiante de Desarrollo de Aplicaciones Web en la Universidad Europea de Madrid
+💻 ## Entusiasta de Frontend y Backend
+🎨 ## Amante del UX/UI - diseño para todos, creando experiencias accesibles y efectivas
+🚀 ## Siempre curioso y aprendiendo las últimas tendencias tecnológicas
+🗣️ ## Bilingüe: Inglés nativo y español nativo
 
 </p>
 
