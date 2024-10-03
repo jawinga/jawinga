@@ -42,6 +42,18 @@
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&scale=1.5" alt="Eclipse" height="40">
 </p>
 
+## 📜 Certificados
+
+- **Build Responsive Real-World Websites with HTML and CSS**  
+  _Instructor: Jonas Schmedtmann_  
+  _Emitido por: Udemy_  
+  ![Certificado Udemy](ruta/a/tu/imagen/curso_udemy.jpeg)
+
+- **UX/UI Design Bootcamp**  
+  _Emitido por: Memorisely_  
+  ![Certificado Memorisely](ruta/a/tu/imagen/certificado.png)
+
+
 
 ## 🌟 Aspectos Destacados
 
