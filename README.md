@@ -39,7 +39,3 @@
 ---
 
 💡 Entusiasta por aprender y contribuir en proyectos web innovadores. ¡Creemos algo increíble juntos!
-
----
-
-💡 Entusiasta por aprender y contribuir en proyectos web innovadores. ¡Creemos algo increíble juntos!
