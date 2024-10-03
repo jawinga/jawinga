@@ -45,12 +45,6 @@ Apasionado por crear soluciones digitales eficientes y amigables. Ubicado en Má
 - 🗣️ **Multilingüe**: Inglés nativo, Español fluido
 - 🌍 **Experiencia internacional**: Estudios y trabajo en Reino Unido
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuUsuarioGitHub&theme=radical" alt="GitHub Streak" width="450px">
-</div>
 
 ## 📫 ¡Conectemos!
 
