@@ -1,16 +1,26 @@
+# Cristian Harders
 
-## 💻 Desarrollador Web | 🎨 Entusiasta UX/UI | 🌍 Multilingüe
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E73F7&center=true&vCenter=true&width=435&lines=Desarrollador+Web;Entusiasta+UX%2FUI;Multilingüe" alt="Typing SVG" />
+</div>
 
-🚀 Futuro desarrollador web apasionado por crear soluciones digitales eficientes y amigables para el usuario. Ubicado en Málaga, España.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuUsuarioGitHub&style=flat-square&color=blue" alt="Vistas del perfil">
+</p>
+
+## 🚀 Sobre mí
+
+Apasionado por crear soluciones digitales eficientes y amigables. Ubicado en Málaga, España, combino mis habilidades en desarrollo web con un ojo para el diseño UX/UI. ¡Listo para enfrentar nuevos desafíos y aprender continuamente!
 
 ## 🎓 Formación
 
 - 📚 **TS Desarrollo de Aplicaciones Web** - Universidad Europea de Madrid (2023 - actualidad)
-  - Notas destacadas en Programación y Lenguajes de Marcas
+  - 🏆 Notas destacadas en Programación y Lenguajes de Marcas
 - 🎨 **Bootcamp de Diseño UX/UI** - Memorisely (2021)
 
-🛠️ Habilidades y Herramientas
-<div align="center">
+## 👾 Habilidades y Herramientas
+
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -19,16 +29,17 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</div>
+</p>
 
-IDEs y Entornos de Desarrollo
-<div align="center">
+## 🛠️ IDEs y Entornos de Desarrollo
+
+<p align="center">
   <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
-</div>
+</p>
 
 ## 🌟 Aspectos Destacados
 
@@ -36,17 +47,26 @@ IDEs y Entornos de Desarrollo
 - 🗣️ Multilingüe: Inglés nativo, Español fluido
 - 🌍 Experiencia internacional: Estudios y trabajo en Reino Unido
 
-## 📫 ¡Conectemos!
+## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuUsuarioGitHub&theme=radical" alt="GitHub Streak">
+</div>
+
+## 📫 ¡Conectemos!
+
+<p align="center">
   <a href="www.linkedin.com/in/cristianharders">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:cristianharders@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
+</p>
 
 ---
 
-💡 Entusiasta por aprender y contribuir en proyectos web innovadores. ¡Creemos algo increíble juntos!
+<div align="center">
+  💡 Entusiasta por aprender y contribuir en proyectos web innovadores. ¡Creemos algo increíble juntos!
+</div>
