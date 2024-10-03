@@ -47,12 +47,10 @@
 - **Build Responsive Real-World Websites with HTML and CSS**  
   _Instructor: Jonas Schmedtmann_  
   _Emitido por: Udemy_  
-  ![Certificado Udemy](ruta/a/tu/imagen/curso_udemy.jpeg)
-
+ ![Certificado Udemy](certificados/curso_udemy.jpeg)
 - **UX/UI Design Bootcamp**  
-  _Emitido por: Memorisely_  
-  ![Certificado Memorisely](ruta/a/tu/imagen/certificado.png)
-
+  _Emitido por: Memorisely_
+  ![Certificado Memorisely](certificados/certificado.png)
 
 
 ## 🌟 Aspectos Destacados
