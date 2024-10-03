@@ -9,11 +9,11 @@
 ## 🚀 Sobre mí
 
 📍 **Viviendo en Málaga, España**
-🎓 **Estudiante de Desarrollo de Aplicaciones Web en la Universidad Europea de Madrid**
-💻 **Apasionado por el la creatividad del front-end y la lógica del back-end**
-🎨 **Amante del UX/UI - diseño para todos, creando experiencias accesibles y efectivas**
-🚀 **Siempre curioso y aprendiendo las últimas tendencias tecnológicas**
-🗣️ **Bilingüe: Inglés nativo y español fluido**
+🎓 **Estudiante de Desarrollo de Aplicaciones Web en la Universidad Europea de Madrid**:
+💻 **Apasionado por el la creatividad del front-end y la lógica del back-end**:
+🎨 **Amante del UX/UI - diseño para todos, creando experiencias accesibles y efectivas**:
+🚀 **Siempre curioso y aprendiendo las últimas tendencias tecnológicas**:
+🗣️ **Bilingüe: Inglés nativo y español fluido**:
 
 
 ## 👾 Habilidades y Herramientas
