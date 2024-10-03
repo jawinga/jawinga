@@ -46,7 +46,7 @@
 ## 🌟 Aspectos Destacados
 
 - 🌐 **Experiencia en proyectos reales** durante el bootcamp de UX/UI
-- 🗣️ **Multilingüe**: Inglés nativo, Español fluido
+- 🗣️ **Multilingüe**: Inglés nativo, Español nativo
 - 🌍 **Experiencia internacional**: Estudios y trabajo en Reino Unido
 
 
