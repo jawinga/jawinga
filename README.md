@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-📍 **Viviendo en Málaga, España** - ¡disfrutando del sol y programando cerca del mar!  
+📍 **Viviendo en Málaga, España**
 🎓 **Estudiante de Desarrollo de Aplicaciones Web** en la Universidad Europea de Madrid  
 💻 **Apasionado por el desarrollo full-stack**: combinando la creatividad del frontend con la lógica del backend  
 🎨 **Amante del UX/UI** - diseño para todos, creando experiencias accesibles y efectivas  
