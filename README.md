@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/tuUsuario/tuRepositorio/main/images/banner.png" alt="Banner" width="100%">
 
-# <img src="https://raw.githubusercontent.com/tuUsuario/tuRepositorio/main/images/avatar.png" alt="Avatar" width="50" height="50" style="border-radius:50%;"> Hola, soy Cristian Harders
-
 ## 💻 Desarrollador Web | 🎨 Entusiasta UX/UI | 🌍 Multilingüe
 
 <div align="center">
