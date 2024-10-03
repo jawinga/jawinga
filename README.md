@@ -9,14 +9,8 @@
 ## 🚀 Sobre mí
 
 <p style="font-family: 'Inter', sans-serif;">
-  Apasionado por crear soluciones digitales eficientes y amigables. Ubicado en Málaga, España, combino mis habilidades en desarrollo web con un ojo para el diseño UX/UI. ¡Listo para enfrentar nuevos desafíos y aprender continuamente!
+🎓 ##Estudiante de Desarrollo## de Aplicaciones Web en la Universidad Europea de Madrid
 </p>
-
-## 🎓 Formación
-
-- 📚 **TS Desarrollo de Aplicaciones Web** - Universidad Europea de Madrid (2023 - actualidad)  
-  - 🏆 Notas destacadas en Programación y Lenguajes de Marcas
-- 🎨 **Bootcamp de Diseño UX/UI** - Memorisely (2021)
 
 ## 👾 Habilidades y Herramientas
 
@@ -41,6 +35,12 @@
   <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&scale=1.5" alt="phpMyAdmin" height="40">
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&scale=1.5" alt="Eclipse" height="40">
 </p>
+
+## 🎓 Formación
+
+- 📚 **TS Desarrollo de Aplicaciones Web** - Universidad Europea de Madrid (2023 - actualidad)  
+  - 🏆 Notas destacadas en Programación y Lenguajes de Marcas
+- 🎨 **Bootcamp de Diseño UX/UI** - Memorisely (2021)
 
 ## 📜 Certificados
 
