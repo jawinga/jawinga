@@ -35,4 +35,38 @@
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
   <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logo
+  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+</p>
+
+## 🌟 Aspectos Destacados
+
+- 🌐 **Experiencia en proyectos reales** durante el bootcamp de UX/UI
+- 🗣️ **Multilingüe**: Inglés nativo, Español fluido
+- 🌍 **Experiencia internacional**: Estudios y trabajo en Reino Unido
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuUsuarioGitHub&theme=radical" alt="GitHub Streak" width="450px">
+</div>
+
+## 📫 ¡Conectemos!
+
+<p align="center" style="font-family: 'Inter', sans-serif;">
+  <a href="https://www.linkedin.com/in/cristianharders" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:cristianharders@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<div align="center" style="font-family: 'Inter', sans-serif;">
+  💡 **Entusiasta por aprender** y contribuir en proyectos web innovadores. ¡Creemos algo increíble juntos!
+</div>
