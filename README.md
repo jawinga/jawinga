@@ -3,8 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=2E73F7&center=true&vCenter=true&width=600&height=100&lines=DESARROLLADOR+WEB+%7C+Entusiasta+UX%2FUI+%7C+Multilingüe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&pause=1000&color=2E73F7&center=true&vCenter=true&width=800&height=100&lines=Desarrollador+Web+%7C+Entusiasta+UX%2FUI+%7C+Multiling%C3%BCe" alt="Typing SVG" />
 </div>
+
 
 ## 🚀 Sobre mí
 
