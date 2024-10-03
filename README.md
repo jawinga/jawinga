@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/tuUsuario/tuRepositorio/main/images/banner.png" alt="Banner" width="100%">
 
 ## 💻 Desarrollador Web | 🎨 Entusiasta UX/UI | 🌍 Multilingüe
 
