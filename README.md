@@ -30,13 +30,12 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&scale=1.5" alt="React" height="40">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&scale=1.5" alt="Angular" height="40">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&scale=1.5" alt="Git" height="40">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="GitHub" height="40">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&scale=1.5" alt="Figma" height="40">
+
 </p>
 
 
 
-## 🛠️ IDEs y Entornos de Desarrollo
+## 🛠️ IDEs/HERRAMIENTAS/VERSION CONTROL
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
   <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&scale=1.5" alt="IntelliJ IDEA" height="40">
@@ -44,6 +43,11 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&scale=1.5" alt="VS Code" height="40">
   <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&scale=1.5" alt="phpMyAdmin" height="40">
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&scale=1.5" alt="Eclipse" height="40">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="GitHub" height="40">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&scale=1.5" alt="Git" height="40">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&scale=1.5" alt="Figma" height="40">
+
+
 </p>
 
 ## 🎓 Formación
