@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&scale=1.5" alt="PHP" height="40">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&scale=1.5" alt="React" height="40">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&scale=1.5" alt="Angular" height="40">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&scale=1.5" alt="Git" height="40">
 
 </p>
 
