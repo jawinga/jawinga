@@ -10,27 +10,28 @@
 ## 🚀 Sobre mí
 
 📍 **Viviendo en Málaga, España**  
-🎓 **Estudiante de Desarrollo de Aplicaciones Web en la Universidad Europea de Madrid**  
 💻 **Apasionado por la creatividad del front-end y la lógica del back-end**  
 🎨 **Amante del UX/UI - diseño para todos, creando experiencias accesibles y efectivas**  
 🚀 **Siempre curioso y aprendiendo las últimas tendencias tecnológicas**  
 🗣️ **Bilingüe: Inglés nativo y español nativo**
 
+## 🖱️ Visita mi Portfolio!
 
+**https://cristianharders.com/**
 
 ## 👾 Lenguajes/Frameworks
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
-  
+
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="40">  
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="40">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40">
-<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="40">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
+<img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS" alt="SCSS" height="40">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
-<img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="40">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="40">
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Boot" height="40">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="40">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40">
 
 
@@ -42,39 +43,49 @@
 ## 🛠️ IDEs/HERRAMIENTAS/VERSION CONTROL
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&scale=1.5" alt="VS Code" height="40">
   <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&scale=1.5" alt="IntelliJ IDEA" height="40">
-  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&scale=1.5" alt="NetBeans" height="40">
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&scale=1.5" alt="VS Code" height="40">
   <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&scale=1.5" alt="phpMyAdmin" height="40">
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&scale=1.5" alt="Eclipse" height="40">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&scale=1.5" alt="GitHub" height="40">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&scale=1.5" alt="Git" height="40">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&scale=1.5" alt="Figma" height="40">
-
-
 </p>
 
 ## 🎓 Formación
 
-- 📚 **TS Desarrollo de Aplicaciones Web** - Universidad Europea de Madrid (2023 - actualidad)  
-  - 🏆 Notas destacadas en Programación y Lenguajes de Marcas
+- 📚 **Técnico Superior Desarrollo de Aplicaciones Web** - Universidad Europea de Madrid (Octubre 2023 - Junio 2025)
 - 🎨 **Bootcamp de Diseño UX/UI** - Memorisely (2021)
 
-## 📜 Certificados
+## 📂 Projects
 
-- **Build Responsive Real-World Websites with HTML and CSS**  
-  _Instructor: Jonas Schmedtmann_  
-  _Emitido por: Udemy_  
-  <img src="certificados/curso_udemy.jpeg" alt="Certificado Udemy" width="70%">
+- **Sheet Vision**  
+  _Analiza y transforma datos de archivos Excel en paneles de información (insights)_
+  _Angular 20, Typescript, SCSS, ChartJS, SheetJS, Lucide Icons_
+  <a href="https://sheet-vision-app.vercel.app/">Desplegar</a>
+  <a href="https://github.com/jawinga/sheet-vision-app">Github</a>
 
-- **UX/UI Design Bootcamp**  
-  _Instructor: Lilian Bustos Linares_  
-  _Emitido por: Memorisely_    
-  <img src="certificados/certificado.png" alt="Certificado Memorisely" width="70%">
+- **Note Taking App**  
+  _Aplicación web de notas, moderno y responsive, incluye editor de texto enriquecedor, además del uso de poder añadir etiquetas._  
+  _NextJs, Typescript, Tailwind CSS, Clerk, Tip Tap, Headless UI_
+  <a href="https://note-taking-app-uubh.vercel.app/pages/main">Desplegar</a>
+  <a href="https://github.com/jawinga/note-taking-app">Github</a>
+  
+- **Buscador de Empleo Definitivo**  
+  _Gestiona fácilmente tus candidaturas con tarjetas de arrastrar y soltar, realiza el seguimiento de cada etapa del proceso y mantén todo organizado en un solo lugar._  
+  _React,Typescript, SCSS, DND kit, Vite
+  <a href="https://job-search-manag-1etg.vercel.app/">Desplegar</a>
+  <a href="https://github.com/jawinga/job-search-manag">Github</a>
 
 
 
 ## 🌟 Aspectos Destacados
+
+- 🖥️ **Desarrollador Frontend**
+Desarrollo y mantenimiento de aplicaciones Web responsivas con Next.js, React, Angular y SCSS.
+Contribuí al rediseño y rebranding del sitio web de un club de boxeo local, aplicando las
+mejores prácticas de UX/UI. 
+Participé en revisiones de código y programación en pareja, mejorando la calidad del código y la colaboración del equipo. Apliqué una arquitectura basada en componentes y patrones de estilo escalables, reduciendo el código de la página principal en
+un 25% y mejorando la mantenibilidad.
 
 - 🌐 **Experiencia en proyectos reales** durante el bootcamp de UX/UI
 - 🌍 **Experiencia internacional**: Estudios y trabajo en Reino Unido
