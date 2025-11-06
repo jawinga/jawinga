@@ -81,11 +81,10 @@
 ## 🌟 Aspectos Destacados
 
 - 🖥️ **Desarrollador Frontend**
-Desarrollo y mantenimiento de aplicaciones Web responsivas con Next.js, React, Angular y SCSS.
-Contribuí al rediseño y rebranding del sitio web de un club de boxeo local, aplicando las
-mejores prácticas de UX/UI. 
-Participé en revisiones de código y programación en pareja, mejorando la calidad del código y la colaboración del equipo. Apliqué una arquitectura basada en componentes y patrones de estilo escalables, reduciendo el código de la página principal en
-un 25% y mejorando la mantenibilidad.
+Desarrollé y mantuve aplicaciones web responsivas principalmente con Angular 17+ y Next.js en entornos Ágiles (Scrum).
+Implementé componentes reactivos con RxJS, pruebas unitarias con Jasmine y endpoints en Node.js (Express) para la integración de APIs.
+Participé en revisiones de código y programación en pareja, mejorando la calidad del código y la colaboración del equipo.
+Apliqué una arquitectura basada en componentes y patrones de estilo escalables, reduciendo el código de la página principal en un 25 % y mejorando la mantenibilidad.
 
 - 🌐 **Experiencia en proyectos reales** durante el bootcamp de UX/UI
 - 🌍 **Experiencia internacional**: Estudios y trabajo en Reino Unido
